@@ -109,7 +109,7 @@ The goal is to demonstrate NLP preprocessing, model training, and deployment in 
 ## **Folder Structure**
 
 ```
-imdb-sentiment/
+Movie-sentiment-analysis/
  ┣ 📄 preprocess.py
  ┣ 📄 predict_batch.py
  ┣ 📄 predict_single.py
